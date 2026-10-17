@@ -145,6 +145,5 @@ Python notebooks and application files
 
 ## Author
 
-Arjun Kumar Gupta
-
-Project: Unlocking Behavioral Intelligence in Airline Loyalty Programs
+Ananya Mondal 20236026 
+MNNIT Allahabad
